@@ -42,6 +42,10 @@ password_toolkit/
 └── output/                       # Generated wordlist + report (gitignored)
 ```
 
+## Documentation
+
+Full project documentation — architecture, module-by-module breakdown, scoring design, and sample output — is in [`docs/DOCUMENTATION.md`](docs/DOCUMENTATION.md) (also available as the original Word doc, [`docs/Project_Documentation.docx`](docs/Project_Documentation.docx)).
+
 ## Disclaimer
 
 This toolkit uses only sample/demo data for hash extraction and does **not** interact with real system files or credentials. It is intended strictly for authorized, ethical security-assessment and educational use in environments you own or are explicitly authorized to test.
